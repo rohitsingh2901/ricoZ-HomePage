@@ -1,0 +1,42 @@
+{
+    "CardsJson": [
+      {
+        "courseName": "Web Development Mastery",
+        "description": "Master the art of web development with our comprehensive course. Learn coding, design, and deployment.",
+        "imgSrc": "https://img.freepik.com/free-photo/brainstorm-meeting_1098-15871.jpg?w=1380&t=st=1696383714~exp=1696384314~hmac=295c250b44ed146edb76e3e1ad6acc48d4e91eb44e2611e0361c68b548c81afd",
+        "price" : 30000
+      },
+      {
+        "courseName": "Digital Marketing Fundamentals",
+        "description": "Navigate the Digital Landscape. Explore the world of digital marketing. Acquire skills in SEO, and online advertising.",
+        "imgSrc": "https://img.freepik.com/free-photo/discussing-video-course_1098-13061.jpg?w=1380&t=st=1696383870~exp=1696384470~hmac=16b636ea44083991274c30b4294b1c37e6d3eea201cd62f2733f1ee8bedca174",
+        "price" : 90000
+      },
+      {
+        "courseName": "Graphic Design Fundamentals",
+        "description": "Unleash your creativity with graphic design. Learn layout, typography, and visual communication.",
+        "imgSrc": "https://img.freepik.com/free-photo/woman-attending-online-class_23-2148854913.jpg?w=1380&t=st=1696383921~exp=1696384521~hmac=186ec0a38b5770f11be38d576cb6c0f24ae54f9f1901d79a4a0337d5f2f37de5",
+        "price" : 80000
+      },
+      {
+        "courseName": "Data Science Basics and data analysis",
+        "description": "Dive into the world of data science. Learn to analyze data, make predictions, and draw insights.",
+        "imgSrc": "https://img.freepik.com/free-photo/colleagues-using-laptops-notebooks-learning-study-session_23-2149285424.jpg?w=1380&t=st=1696384004~exp=1696384604~hmac=0ed8424ec01430305fb78acc6f38067001227d720cf2a5a55b2bd11c7f785fc9",
+        "price" : 60000
+      },
+      {
+        "courseName": "App Development with React Native",
+        "description": "Create cross-platform mobile apps using React Native. Build efficient and user-friendly applications.",
+        "imgSrc": "https://img.freepik.com/premium-photo/sideview-groupmates-looking-camera-during-lesson_7502-9423.jpg",
+        "price" : 40000
+      },
+      {
+        "courseName": "Figma UI/UX Design Essentials",
+        "description": "Unlock the secrets of creating user-friendly interfaces and seamless user experiences.",
+        "imgSrc": "https://img.freepik.com/free-photo/student-class-looking-course_23-2148888810.jpg?t=st=1696384094~exp=1696384694~hmac=e1a8f4c1f2834da6a34f373fe961a8d6fba30e8a1ead4394045487f6ba0195e1",
+        "price" : 70000
+      }
+      
+    ]
+  }
+  

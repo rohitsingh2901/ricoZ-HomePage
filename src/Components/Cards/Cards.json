@@ -1,0 +1,30 @@
+{
+    "CardsJson": [
+      {
+        "heading": "Wide Range Of Services",
+        "description": "Find everything from web development to marketing under one roof. Our platform offers a diverse array of tech services",
+        "imgSrc": "https://cdn-icons-png.flaticon.com/512/1865/1865273.png?ga=GA1.1.877150888.1686539129"
+      },
+      {
+        "heading": "Instant Search",
+        "description": "Get connected to top tech professionals within moments. Our intuitive search function ensures quick access.",
+        "imgSrc": "https://cdn-icons-png.flaticon.com/512/428/428094.png?ga=GA1.1.877150888.1686539129"
+      },
+      {
+        "heading": "Quality Scoring",
+        "description": "We maintain high service standards. Our unique scoring system ensures you receive top-notch quality from professionals.",
+        "imgSrc": "https://cdn-icons-png.flaticon.com/512/3281/3281289.png?ga=GA1.1.877150888.1686539129"
+      },
+      {
+        "heading": "Integrated Tools",
+        "description": "Enhance collaboration with built-in tools. Our platform integrates messaging, CRM, and calendars for seamless communication.",
+        "imgSrc": "https://cdn-icons-png.flaticon.com/512/2872/2872823.png?ga=GA1.1.877150888.1686539129"
+      },
+      {
+        "heading": "Refer and Earn",
+        "description": "Spread the word and be rewarded. Invite others to join, and both you and your referrals can enjoy the benefits of our refer-and-earn.",
+        "imgSrc": "https://cdn-icons-png.flaticon.com/512/3112/3112946.png?ga=GA1.1.877150888.1686539129"
+      }
+    ]
+  }
+  
